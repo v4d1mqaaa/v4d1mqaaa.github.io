@@ -1,0 +1,9 @@
+.news {
+    width: 500px;
+    height: 500px;
+    background: red;
+}
+.news > article > h2 {
+    font-size: 50px;
+    text-align: center;
+}
